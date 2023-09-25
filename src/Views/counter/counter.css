@@ -1,0 +1,19 @@
+
+.text-name{
+    text-align: center;
+}
+.count-button{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+
+}
+.count{
+    text-align: center;
+    font-size: 30px;
+}
+.spe-btn{
+    background-color: darkorange;
+    border-radius: 5px;
+    font-size: 20px;
+}
